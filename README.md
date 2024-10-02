@@ -45,3 +45,7 @@ When a number plate is detected, a rectangle will be drawn around it, and a mess
 
 ## Datasets
 This model does not require a specific dataset, as it uses a pre-trained Haar Cascade classifier for number plate detection.
+
+## Google Drive Link for this project
+https://drive.google.com/file/d/1JcXW9Vses3GX1EpFBFum5XZ3p5REwEQF/view
+
